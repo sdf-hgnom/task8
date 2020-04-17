@@ -260,8 +260,8 @@ html {
 }
 
 .img270-first {
-    height: 16.875rem;
-    width: 16.875rem;
+    height: 270px;
+    width: 270px;
 
     margin-right: 0.9375rem;
     margin-left: 0;
@@ -274,8 +274,8 @@ html {
 }
 
 .img270-last {
-    height: 16.875rem;
-    width: 16.875rem;
+    height: 270px;
+    width: 270px;
 
     margin-right: 0;
     margin-left: 0.9375rem;
@@ -286,8 +286,8 @@ html {
 }
 
 .img270 {
-    height: 16.875rem;
-    width: 16.875rem;
+    height: 270px;
+    width: 270px;
 
     margin-left: 0.2rem;
     margin-right: 0.2rem;
@@ -427,8 +427,8 @@ html {
 }
 
 .img370 {
-    width: 23.125rem;
-    height: 23.125rem;
+    width: 370px;
+    height: 370px;
 
     margin-top: 0.2rem;
     margin-bottom: 0.2rem;
@@ -488,8 +488,8 @@ html {
 }
 
 .img270-ex {
-    height: 16.875rem;
-    width: 16.875rem;
+    height: 270px;
+    width: 270px;
 
     margin-bottom: 1.25rem;
 
