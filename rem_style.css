@@ -418,7 +418,7 @@ html {
     flex-wrap: wrap;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between;
+    justify-content:space-evenly;
 
 }
 
@@ -526,7 +526,7 @@ html {
     flex-wrap: wrap;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between;
+    justify-content:  space-evenly;
 }
 
 .ex-p-content {
@@ -805,7 +805,7 @@ html {
     flex-wrap: wrap;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between;
+    justify-content:  space-evenly;
 }
 
 .location-item {
@@ -917,7 +917,7 @@ html {
     flex-wrap: wrap;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between;
+    justify-content:  space-evenly;
     margin-top: 4.375rem;
 }
 
@@ -1104,7 +1104,7 @@ product-detail-relayted-title-block2:hover {
     padding-bottom: 7.5rem;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between;
+    justify-content:  space-evenly;
 
 }
 
