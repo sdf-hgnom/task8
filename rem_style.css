@@ -1,5 +1,5 @@
 /* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
-@media (min-width: 1200px) and (max-width: 1366px) {
+@media (min-width: 1200px)  {
     html {
         font-size: 13px;
     }
