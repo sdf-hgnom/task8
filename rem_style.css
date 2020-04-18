@@ -618,15 +618,9 @@ overflow: hidden;
     background-color: #f7f7f7;
 }
 
-.footer-block1 {
-    
-    float: left;
-    margin-right: 3.125rem;
-
-}
 
 .footer-block1-p1 {
-    
+    text-align: left;
     color: #6c6c6c;
     font-size: 1.125rem;
     font-weight: 700;
@@ -636,7 +630,7 @@ overflow: hidden;
 }
 
 .footer-block1-p2 {
-    position: relative;
+    
     color: #212121;
     font-size: 0.875rem;
     font-weight: 300;
@@ -644,25 +638,18 @@ overflow: hidden;
     margin-top: 2.25rem;
 }
 
-.footer-block2 {
-    float: left;
-    
-    margin-right: 3.125rem;
-}
 
 .footer-block2-table {
+    margin-top: 1.563rem;
 
     color: #212121;
     font-size: 0.875rem;
-    font-weight: 300;
+    font-weight: 700;
     line-height: 1.625rem;
     text-transform: uppercase;
-    margin-top: 2.25rem;
+    letter-spacing: 0.044rem;
 }
-.footer-up{
-    height: 9.188rem;
-    margin-top: 7.5rem;
-}
+
 .footer-block2-table-td {
 
     width: 13.125rem;
@@ -694,21 +681,16 @@ overflow: hidden;
     color: lawngreen;
 }
 
-.footer-block3 {
-    
-    float: left;
-
-}
 
 .form-input-button {
-    width: 18.75rem;
-    border: 0.0625rem solid black;
+    
+    
     vertical-align: middle;
 }
 
 .email-input {
-    width: 16.25rem;
-    height: 3.125rem;
+    width: 22rem;
+    height: 3rem;
     -webkit-appearance: none;
     background-color: #ffffff;
     color: #212121;
@@ -782,12 +764,11 @@ overflow: hidden;
 }
 
 .footer-block4-left {
-    float: left;
+    text-align:  left;
 }
 
 .footer-block4-right {
-    float: right;
-
+   text-align: right;
 }
 
 .social {
@@ -1174,4 +1155,28 @@ product-detail-relayted-title-block2:hover {
     margin-top: 3.75rem;
     font-size: 4.5rem;
     font-weight: 700;
+}
+.footer-block4-centr{
+    text-align: center;
+}
+.footer-up-table{
+    margin-top: 5.5rem;
+    width: 100%;
+    height: 9.375rem;
+    
+}
+.footer-block4-table{
+    color: #6c6c6c;
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 1.625rem;
+    text-transform: uppercase;
+    letter-spacing: 0.038rem;
+    
+    width: 100%;
+    margin-top: 3rem;
+}
+.footer-block4-table-td{
+    
+    width: calc(100%/3);
 }
